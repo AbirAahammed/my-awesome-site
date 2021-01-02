@@ -30,3 +30,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-theme-hacker', '~> 0.1.2'
 gem 'jekyll-theme-primer', '~> 0.5.4'
+gem 'jekyll-theme-clean-blog', '~> 4.0', '>= 4.0.10'

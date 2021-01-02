@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  AbirAahammed
 
 # Build settings
-theme: jekyll-theme-primer
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
